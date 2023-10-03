@@ -10,7 +10,9 @@ If you have any questions or want to connect, feel free to contact me at victori
 
 #### Past Projects:
 - [Analysis of Lyrical Change in Latin Songs](https://github.com/victoriacordlara/DIGHUM101-Project/tree/main)
-
+- [IBTrACS Data Analysis Report](https://github.com/stat133-f19/workouts-victoriacordlara/blob/master/workout1/report/workout1-Victoria-CordovezLara.md)
+- [Shiny App: Investment Simulator](https://github.com/stat133-f19/workouts-victoriacordlara/blob/master/workout2/app.R)
+- [Report On Economic Scholars: Angus Deaton and Esther Duflo](https://github.com/stat133-f19/workouts-victoriacordlara/blob/master/workout3/report/workout3-Victoria-CordovezLara.md)
 <!--
 **victoriacordlara/victoriacordlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
