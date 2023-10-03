@@ -9,7 +9,7 @@ With experience in risk, financial accounting, data analytics, leadership, and s
 If you have any questions or want to connect, feel free to contact me at victoriaecordovez@gmail.com
 
 #### Past Projects:
-- [Analysis of Lyrical Change in Latin Songs](https://github.com/vuejs/vue](https://github.com/victoriacordlara/DIGHUM101-Project/tree/main )
+- [Analysis of Lyrical Change in Latin Songs](https://github.com/vuejs/vue](https://github.com/victoriacordlara/DIGHUM101-Project/tree/main)
 
 <!--
 **victoriacordlara/victoriacordlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
